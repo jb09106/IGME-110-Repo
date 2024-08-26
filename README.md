@@ -5,7 +5,7 @@
 ## Fav sites
 
 - RIT - https://www.rit.edu/
-- [https://static.wikia.nocookie.net/cloudywithachanceofmeatballs/images/3/30/Bananostrich.png/revision/latest/scale-to-width-down/250?cb=20230606024441](https://cloudywithachanceofmeatballs.fandom.com/wiki/File:Bananostrich.png)
+- [BananaBirb](https://cloudywithachanceofmeatballs.fandom.com/wiki/File:Bananostrich.png)
 - Google
 - Bing
 

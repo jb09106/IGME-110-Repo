@@ -1,6 +1,6 @@
 # My Listicle
 ---
-##Games my roomates play
+## Games my roomates play
 **Together**
 -Valorant
 -Fortnite
